@@ -17,6 +17,7 @@ public class Main extends Application {
     private static Connection connect;
 
     public static void main(String[] args) {
+// wach bik 5o
         launch();
     }
 
